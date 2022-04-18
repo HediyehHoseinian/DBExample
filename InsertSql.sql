@@ -1,0 +1,22 @@
+INSERT INTO players (Name,Country,Post,Goals) 
+VALUES
+('player1','iran','forward',0),
+('player2','iran','forward',1),
+('player3','iran','forward',5),
+('player4','iran','forward',7),
+('player5','iran','forward',3),
+('player6','iran','forward',0),
+('player7','iran','forward',1),
+('player8','iran','forward',4),
+('player9','iran','forward',2),
+('player10','iran','forward',6),
+('player11','iran','forward',7),
+('player12','iran','forward',4),
+('player13','iran','forward',3),
+('player14','iran','forward',0),
+('player15','iran','forward',1),
+('player16','iran','forward',1),
+('player17','iran','forward',2),
+('player18','iran','forward',9),
+('player19','iran','forward',4),
+('player20','iran','forward',2)
